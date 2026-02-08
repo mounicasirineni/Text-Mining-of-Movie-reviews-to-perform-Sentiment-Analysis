@@ -1,16 +1,18 @@
 # Text Mining of Movie Reviews for Sentiment Analysis
 
-> **📚 Master's Project** | University of Illinois at Chicago  
-> **⏰ Completed:** Spring 2016  
+> **📚 Course Project** | IDS 572: Data Mining for Business  
+> **🏫 University of Illinois at Chicago**  
+> **⏰ Completed:** Fall 2015  
 > **📝 Last Updated:** February 2026 (documentation only)  
-> **🔍 [View Development Timeline](../../commits/main)** - See original commits from 2016
+> **🔍 [View Development Timeline](../../commits/main)** - See original commits from Fall 2015
 
 ---
 
 ## Overview
 
-Built a sentiment classification system to analyze movie reviews and predict positive/negative sentiment using natural language processing and machine learning techniques. Implemented comprehensive text preprocessing pipeline and compared multiple classification algorithms.
+Built a sentiment classification system to analyze movie reviews and predict positive/negative sentiment using natural language processing and machine learning techniques. Completed as part of the Data Mining for Business course, this project implemented comprehensive text preprocessing pipeline and compared multiple classification algorithms.
 
+**Course:** IDS 572 - Data Mining for Business  
 **Technologies:** Python, NLTK, Scikit-learn, TF-IDF, Pandas
 
 ---
@@ -86,9 +88,9 @@ Built a sentiment classification system to analyze movie reviews and predict pos
 
 ---
 
-## Context
+## Academic Context
 
-This project was completed in **Spring 2016**, demonstrating early hands-on experience with NLP and text classification. These fundamental techniques—tokenization, TF-IDF, and classification algorithms—form the basis of modern language understanding systems, including the transformers and large language models developed years later.
+This project was part of **IDS 572: Data Mining for Business** at UIC, completed in **Fall 2015**. This work demonstrated early hands-on experience with NLP and text classification. These fundamental techniques—tokenization, TF-IDF, and classification algorithms—form the basis of modern language understanding systems, including the transformers and large language models developed years later.
 
 ---
 
